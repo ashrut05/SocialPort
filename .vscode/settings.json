@@ -1,0 +1,9 @@
+{
+    "eslint.codeActionsOnSave.rules": null,
+
+    "eslint.workingDirectories": [
+        "./server",
+        "./client"
+      ]
+}
+
